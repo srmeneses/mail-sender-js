@@ -1,0 +1,22 @@
+{
+  "name": "mail-sender-js",
+  "version": "0.0.1",
+  "description": "A Node.js mail sender",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srmeneses/mail-sender-js.git"
+  },
+  "keywords": [
+    "email","sender"
+  ],
+  "author": "Marcelo Meneses",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/srmeneses/mail-sender-js/issues"
+  },
+  "homepage": "https://github.com/srmeneses/mail-sender-js#readme"
+}
